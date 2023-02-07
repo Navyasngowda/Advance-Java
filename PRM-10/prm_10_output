@@ -1,0 +1,95 @@
+debug:
+Inside try
+inside try after class.forName
+Inside try after getconnection
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+3
+USN NAME SEMISTER AGE
+4VP1---Rashmi-----2------21
+Record Viewed
+105---jansi-----5------29
+Record Viewed
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+2
+USN NAME SEMISTER AGE
+4VP1---Rashmi-----2------21
+Record Viewed
+105---jansi-----5------29
+Record Viewed
+Enter USN to Delete:
+4VP1
+Record Deleted
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+3
+USN NAME SEMISTER AGE
+105---jansi-----5------29
+Record Viewed
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+1
+Enter USN:
+102
+Enter Name:
+nikshi
+Enter Semister:
+4
+Enter Age:
+29
+Record added
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+3
+USN NAME SEMISTER AGE
+105---jansi-----5------29
+Record Viewed
+102---nikshi-----4------29
+Record Viewed
+------------------
+1.Insert Record
+2.Delete record
+3.View record
+4.Update record
+5.Exit
+------------------
+------------------
+Enter your choice
+5
+BUILD SUCCESSFUL (total time: 2 minutes 38 seconds)
